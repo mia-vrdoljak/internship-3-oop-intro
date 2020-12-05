@@ -1,0 +1,13 @@
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.exe
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.deps.json
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.runtimeconfig.json
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.runtimeconfig.dev.json
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.dll
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\bin\Debug\netcoreapp3.1\internship-3-oop-intro.pdb
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.csprojAssemblyReference.cache
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.AssemblyInfoInputs.cache
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.AssemblyInfo.cs
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.csproj.CoreCompileInputs.cache
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.dll
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.pdb
+C:\Users\Vrdoljak\Desktop\internship-3-oop-intro\internship-3-oop-intro\obj\Debug\netcoreapp3.1\internship-3-oop-intro.genruntimeconfig.cache
